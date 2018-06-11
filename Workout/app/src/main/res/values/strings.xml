@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="details_button">Show Details</string>
+    <string name="workout_description">Description</string>
+    <string name="workout_title">Title</string>
+
+    <!-- TODO: Remove or change th<TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment" />is placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

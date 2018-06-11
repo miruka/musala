@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_24dp">
+</item>
+
+    <item
+    android:id="@+id/my_profile"
+    android:title="My Profile"
+    android:icon="@drawable/ic_profile_person_black_24dp">
+
+</item>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+
+        android:icon="@drawable/ic_settings_applications_black_24dp">
+    </item>
+
+<item
+android:id="@+id/tell_a_friend"
+android:title="Tell a Friend"
+
+android:icon="@drawable/ic_tell_a_friend_24dp">
+</item>
+    <item
+        android:id="@+id/about_us"
+        android:title="About Us"
+
+        android:icon="@drawable/ic_about_us_24dp">
+    </item>
+
+<item
+android:id="@+id/log_out"
+android:title="Log Out"
+
+android:icon="@drawable/ic_log_out_24dp">
+</item>
+
+
+
+
+</menu>

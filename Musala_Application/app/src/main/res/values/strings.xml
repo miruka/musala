@@ -1,0 +1,28 @@
+<resources>
+    <string name="Musala">Musala_Application</string>
+    <string name="Open">Musala_Application</string>
+    <string name="Close">Musala_Application</string>
+
+
+    <string-array name="profession_array">
+        <item>Electrician</item>
+        <item>Computer Technician</item>
+        <item>Painter</item>
+        <item>Plumber</item>
+        <item>Gardener</item>
+        <item>Vetenary</item>
+        <item>Movers</item>
+        <item>Delivery</item>
+    </string-array>
+
+    <string-array name="location_array">
+        <item>Buruburu</item>
+        <item>Makadara</item>
+        <item>Umoja</item>
+        <item>komarock</item>
+        <item>Nasra</item>
+        <item>Greenspan</item>
+        <item>Donholm</item>
+        <item>Road</item>
+    </string-array>
+</resources>

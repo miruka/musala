@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "190001629478",
+    "firebase_url": "https://musala-miruka.firebaseio.com",
+    "project_id": "musala-miruka",
+    "storage_bucket": "musala-miruka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190001629478:android:26ad25bdaed54afd",
+        "android_client_info": {
+          "package_name": "com.example.miruka.musala_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190001629478-cs06rcopc286dbfh13en6rb2nnb7bls7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miruka.musala_application",
+            "certificate_hash": "f3fb1a0d4e3abe9cb6101678c894dc75f9cd0caf"
+          }
+        },
+        {
+          "client_id": "190001629478-t7tjdf96bjkhop47n40sfm682k0hb1ba.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "190001629478-t7tjdf96bjkhop47n40sfm682k0hb1ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH2NjtejApjVXB1RkAS2zp4U2xf1Bhl94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190001629478-t7tjdf96bjkhop47n40sfm682k0hb1ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

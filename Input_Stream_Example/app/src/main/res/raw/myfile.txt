@@ -1,0 +1,5 @@
+SHARED PREFERENCES
+very small amoount of data
+privaae not accessible
+ not shared by users
+stores texts and numbers
